@@ -3,9 +3,9 @@
 Đánh dấu `[x]` khi bài đạt **toàn bộ** tiêu chí hoàn thành trong đề bài, rồi commit.
 Đề bài và quy ước: [docs/practice/README.md](docs/practice/README.md).
 
-## Tiến độ: [0/16 bài]
+## Tiến độ: [1/16 bài]
 
-- [ ] Bài 00 — Chuẩn bị môi trường
+- [x] Bài 00 — Chuẩn bị môi trường
 - [ ] Bài 01 — Đọc hiểu kiến trúc
 - [ ] Bài 02 — Đăng ký tài khoản
 - [ ] Bài 03 — Email & xác thực tài khoản
